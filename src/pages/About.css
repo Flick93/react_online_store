@@ -1,0 +1,22 @@
+.about{
+    padding: 30px;
+    background-color: #dee2df;
+}
+
+.about h3{
+    color: midnightblue;
+}
+
+.about .box{
+    width: 600px;
+    padding: 40px;
+    background-color: white;
+    border: #e0e5e7;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about h1{
+    font-size: 75px;
+}

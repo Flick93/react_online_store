@@ -1,0 +1,75 @@
+.admin {
+    background-color: #dee2df;
+    padding-top: 40px;
+}
+
+.admin h1{
+    text-align: center;
+    color: midnightblue;
+}
+
+.admin .parent {
+    display: flex;
+}
+
+.admin .parent .products {
+    flex: 3;
+}
+
+.admin .parent .coupons {
+    flex: 2;
+}
+
+.admin .form {
+    border: 1px solid #c9c9cd;
+    border-radius: 6px;
+    width: 400px;
+    padding: 12px;
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.admin .form h3 {
+    text-align: center;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-weight: 200;
+    color: #587982;
+}
+
+.admin .form div {
+    margin-bottom: 12px;
+}
+
+.admin .form .controls {
+    margin-top: 18px;
+    text-align: center;
+}
+
+.admin .prod {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    border: px solid #c2c2c2;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 10px;
+    background-color: white;
+}
+
+.admin .prod img {
+    height: 70px;
+    width: 70px;
+}
+
+.admin .prod h5 {
+    flex: 4;
+}
+
+ 
+
+.admin .prod label {
+    flex: 1;
+}
